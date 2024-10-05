@@ -10,35 +10,32 @@
         <mxCell id="dexEl2o01k-u0EFsVKIC-1" value="How can we help you?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dexEl2o01k-u0EFsVKIC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-2" target="dexEl2o01k-u0EFsVKIC-4">
+        <mxCell id="dexEl2o01k-u0EFsVKIC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-2" target="dexEl2o01k-u0EFsVKIC-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dexEl2o01k-u0EFsVKIC-2" value="About Your business" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dexEl2o01k-u0EFsVKIC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-4" target="dexEl2o01k-u0EFsVKIC-9">
+        <mxCell id="dexEl2o01k-u0EFsVKIC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-34" target="dexEl2o01k-u0EFsVKIC-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dexEl2o01k-u0EFsVKIC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-4" target="dexEl2o01k-u0EFsVKIC-11">
+        <mxCell id="dexEl2o01k-u0EFsVKIC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.438;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-34" target="dexEl2o01k-u0EFsVKIC-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dexEl2o01k-u0EFsVKIC-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-4" target="dexEl2o01k-u0EFsVKIC-13">
+        <mxCell id="dexEl2o01k-u0EFsVKIC-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-34" target="dexEl2o01k-u0EFsVKIC-13">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dexEl2o01k-u0EFsVKIC-4" value="&lt;div&gt;Dashboard&lt;/div&gt;&lt;div&gt;- Add Service&lt;/div&gt;&lt;div&gt;-Add Product&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="290" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dexEl2o01k-u0EFsVKIC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-9" target="dexEl2o01k-u0EFsVKIC-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dexEl2o01k-u0EFsVKIC-9" value="Add Service Screen" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="340" width="120" height="75" as="geometry" />
+          <mxGeometry x="560" y="350" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dexEl2o01k-u0EFsVKIC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-11" target="dexEl2o01k-u0EFsVKIC-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dexEl2o01k-u0EFsVKIC-11" value="Add Product Screen" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="340" width="120" height="75" as="geometry" />
+          <mxGeometry x="150" y="350" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dexEl2o01k-u0EFsVKIC-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-13" target="dexEl2o01k-u0EFsVKIC-28">
           <mxGeometry relative="1" as="geometry" />
@@ -47,28 +44,41 @@
           <mxGeometry x="375" y="460" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dexEl2o01k-u0EFsVKIC-17" value="Show location?&lt;br&gt;&lt;div&gt;Input business location&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Do business at client&#39;s location&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="660" width="170" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="dexEl2o01k-u0EFsVKIC-20" value="Add Category" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="800" y="160" width="90" height="90" as="geometry" />
+          <mxGeometry x="550" y="762.5" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dexEl2o01k-u0EFsVKIC-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-28" target="dexEl2o01k-u0EFsVKIC-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-28" target="dexEl2o01k-u0EFsVKIC-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dexEl2o01k-u0EFsVKIC-28" value="Add another?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="600" width="100" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="dexEl2o01k-u0EFsVKIC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-30" target="dexEl2o01k-u0EFsVKIC-4">
+        <mxCell id="dexEl2o01k-u0EFsVKIC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-30" target="dexEl2o01k-u0EFsVKIC-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="648" />
               <mxPoint x="80" y="280" />
               <mxPoint x="388" y="280" />
+              <mxPoint x="388" y="295" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dexEl2o01k-u0EFsVKIC-30" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="607.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-34" value="&lt;div&gt;Dashboard&lt;/div&gt;&lt;div&gt;- Add Service&lt;/div&gt;&lt;div&gt;-Add Product&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="295" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-35" target="dexEl2o01k-u0EFsVKIC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-35" value="No" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="782.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.412;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-9" target="dexEl2o01k-u0EFsVKIC-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
