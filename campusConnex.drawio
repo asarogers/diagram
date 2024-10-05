@@ -16,8 +16,35 @@
         <mxCell id="dexEl2o01k-u0EFsVKIC-2" value="About Your business" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="160" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-4" target="dexEl2o01k-u0EFsVKIC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-4" target="dexEl2o01k-u0EFsVKIC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dexEl2o01k-u0EFsVKIC-4" value="&lt;div&gt;Empty Dashboard&lt;/div&gt;&lt;div&gt;- Add Service&lt;/div&gt;&lt;div&gt;-Add Product&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="375" y="290" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-9" target="dexEl2o01k-u0EFsVKIC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-9" value="Add Service Screen" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="297.5" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-11" target="dexEl2o01k-u0EFsVKIC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-11" target="dexEl2o01k-u0EFsVKIC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-11" value="Add Product Screen" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="297.5" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-13" value="Add Category" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-17" value="Show location?&lt;br&gt;&lt;div&gt;Input business location&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Do business at client&#39;s location&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="550" width="170" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
