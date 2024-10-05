@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.17">
   <diagram name="Page-1" id="rSMZ6AlR001EZLdGAVFS">
-    <mxGraphModel dx="1295" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="892" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,8 +90,11 @@
         <mxCell id="ZTmPgTyhNYrfy_NPzgEH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-46" target="ZTmPgTyhNYrfy_NPzgEH-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dexEl2o01k-u0EFsVKIC-46" value="&lt;p align=&quot;center&quot; style=&quot;line-height: 70%;&quot;&gt;&lt;/p&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Dashboard&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(home screen)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;-Services/Products&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;p align=&quot;center&quot;&gt;&lt;/p&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=18.410000000000082;align=center;" parent="1" vertex="1">
-          <mxGeometry x="365" y="580" width="110" height="60" as="geometry" />
+        <mxCell id="ZTmPgTyhNYrfy_NPzgEH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-46" target="ZTmPgTyhNYrfy_NPzgEH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dexEl2o01k-u0EFsVKIC-46" value="&lt;p align=&quot;center&quot; style=&quot;line-height: 70%;&quot;&gt;&lt;/p&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Dashboard&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(home screen)&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;-List of Services/Products&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;p align=&quot;center&quot;&gt;&lt;/p&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=18.410000000000082;align=center;" parent="1" vertex="1">
+          <mxGeometry x="357.5" y="580" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTmPgTyhNYrfy_NPzgEH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.375;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dexEl2o01k-u0EFsVKIC-47" target="dexEl2o01k-u0EFsVKIC-46">
           <mxGeometry relative="1" as="geometry" />
@@ -109,7 +112,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZTmPgTyhNYrfy_NPzgEH-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Contact Info&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="585" width="50" height="50" as="geometry" />
+          <mxGeometry x="505" y="585" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTmPgTyhNYrfy_NPzgEH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZTmPgTyhNYrfy_NPzgEH-10" target="ZTmPgTyhNYrfy_NPzgEH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTmPgTyhNYrfy_NPzgEH-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Clicked on Service/Product list&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="670" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTmPgTyhNYrfy_NPzgEH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZTmPgTyhNYrfy_NPzgEH-12" target="ZTmPgTyhNYrfy_NPzgEH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTmPgTyhNYrfy_NPzgEH-12" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;yes&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="695" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTmPgTyhNYrfy_NPzgEH-14" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Show specific Product/Service screen&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="680" width="75" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
