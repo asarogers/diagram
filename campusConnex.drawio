@@ -456,7 +456,7 @@
         <mxCell id="IAaCQjUTkN1j__YBtyIE-3" value="Requirements - Pro Side" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-430" width="650" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IAaCQjUTkN1j__YBtyIE-4" value="On the dashboard, there needs to be a list of aff" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IAaCQjUTkN1j__YBtyIE-3">
+        <mxCell id="IAaCQjUTkN1j__YBtyIE-4" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;On the dashboard, there needs to be a list of affected marketing services we offer&lt;/li&gt;&lt;li&gt;It comes from the Campus Nexus&lt;/li&gt;&lt;li&gt;We can make money from them buying courses&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IAaCQjUTkN1j__YBtyIE-3">
           <mxGeometry y="30" width="650" height="50" as="geometry" />
         </mxCell>
       </root>
