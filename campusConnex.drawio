@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.17">
   <diagram name="Page-1" id="rSMZ6AlR001EZLdGAVFS">
-    <mxGraphModel dx="2598" dy="2093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1558" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -454,13 +454,13 @@
           <mxGeometry x="-683" y="520" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IAaCQjUTkN1j__YBtyIE-3" value="Requirements - Pro Side" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="-430" width="650" height="180" as="geometry" />
+          <mxGeometry x="29.340000000000003" y="-140" width="650" height="180" as="geometry" />
         </mxCell>
         <mxCell id="IAaCQjUTkN1j__YBtyIE-4" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;On the dashboard, there needs to be a list of affected marketing services we offer&lt;/li&gt;&lt;li&gt;It comes from the Campus Nexus&lt;/li&gt;&lt;li&gt;We can make money from them buying courses&lt;/li&gt;&lt;li&gt;As the Pro sets service/product ask them if they want to input a discount code&lt;/li&gt;&lt;li&gt;add common resources, such as the small business associations&lt;/li&gt;&lt;li&gt;the people that we have an affelectation with will pay to be added to our site&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="IAaCQjUTkN1j__YBtyIE-3" vertex="1">
           <mxGeometry y="30" width="650" height="150" as="geometry" />
         </mxCell>
         <mxCell id="IAaCQjUTkN1j__YBtyIE-8" value="Ideas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="-640" width="650" height="180" as="geometry" />
+          <mxGeometry x="-800" y="-430" width="650" height="180" as="geometry" />
         </mxCell>
         <mxCell id="IAaCQjUTkN1j__YBtyIE-9" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Sales funnel that goes hand and hand with the newsletter&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="IAaCQjUTkN1j__YBtyIE-8" vertex="1">
           <mxGeometry y="30" width="650" height="150" as="geometry" />
@@ -469,7 +469,7 @@
           <mxGeometry x="-466.82" y="631.88" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AxEh44dUHlblukpufmwg-3" value="Client side" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="-870" width="650" height="180" as="geometry" />
+          <mxGeometry x="20" y="-430" width="650" height="180" as="geometry" />
         </mxCell>
         <mxCell id="AxEh44dUHlblukpufmwg-4" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Product Screen - display the inventory of a certain item, both for size and color&lt;/li&gt;&lt;li&gt;custom product/offer(maybe something else)&lt;/li&gt;&lt;li&gt;enable someone to type a code to get a discount for the checkout screen&lt;br&gt;&lt;/li&gt;&lt;li&gt;Track how long users are on each screen, where they went and how long they stayed on the screen &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AxEh44dUHlblukpufmwg-3">
           <mxGeometry y="30" width="650" height="150" as="geometry" />
@@ -478,7 +478,7 @@
           <mxGeometry x="-690" y="1015" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AxEh44dUHlblukpufmwg-8" value="Requirements - Pro Side" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="-190" width="650" height="180" as="geometry" />
+          <mxGeometry x="-800" y="-150" width="650" height="180" as="geometry" />
         </mxCell>
         <mxCell id="AxEh44dUHlblukpufmwg-9" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;On the dashboard, there needs to be a list of affected marketing services we offer&lt;/li&gt;&lt;li&gt;It comes from the Campus Nexus&lt;/li&gt;&lt;li&gt;We can make money from them buying courses&lt;/li&gt;&lt;li&gt;As the Pro sets service/product ask them if they want to input a discount code&lt;/li&gt;&lt;li&gt;Paid service to the pros that will give them their analyistics of how long someone stayed on their page and what they looked at&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AxEh44dUHlblukpufmwg-8">
           <mxGeometry y="30" width="650" height="150" as="geometry" />
