@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="rSMZ6AlR001EZLdGAVFS">
-    <mxGraphModel dx="1476" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1349" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,7 +209,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QBD-djzKK2ey1wAHb9k3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZTmPgTyhNYrfy_NPzgEH-50" target="ZTmPgTyhNYrfy_NPzgEH-58">
+        <mxCell id="QBD-djzKK2ey1wAHb9k3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZTmPgTyhNYrfy_NPzgEH-50" target="ZTmPgTyhNYrfy_NPzgEH-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZTmPgTyhNYrfy_NPzgEH-50" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Settings&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -485,6 +485,45 @@
         </mxCell>
         <mxCell id="AxEh44dUHlblukpufmwg-9" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;On the dashboard, there needs to be a list of affected marketing services we offer&lt;/li&gt;&lt;li&gt;It comes from the Campus Nexus&lt;/li&gt;&lt;li&gt;We can make money from them buying courses&lt;/li&gt;&lt;li&gt;As the Pro sets service/product ask them if they want to input a discount code&lt;/li&gt;&lt;li&gt;Paid service to the pros that will give them their analyistics of how long someone stayed on their page and what they looked at&lt;/li&gt;&lt;li&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;On the dashboard, there needs to be a list of affected marketing services we offer&lt;/li&gt;&lt;li&gt;It comes from the Campus Nexus&lt;/li&gt;&lt;li&gt;We can make money from them buying courses&lt;/li&gt;&lt;li&gt;As the Pro sets service/product ask them if they want to input a discount code&lt;/li&gt;&lt;li&gt;add common resources, such as the small business associations&lt;/li&gt;&lt;li&gt;the people that we have an affelectation with will pay to be added to our site&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="AxEh44dUHlblukpufmwg-8" vertex="1">
           <mxGeometry y="30" width="650" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="drYlNbGnooQs0S50FcPu-2" target="drYlNbGnooQs0S50FcPu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-2" value="Pet identifier" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="267.5" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="drYlNbGnooQs0S50FcPu-3" target="drYlNbGnooQs0S50FcPu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Pet behavior tracker&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="380" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Corrective Signal&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="505" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="drYlNbGnooQs0S50FcPu-5" target="drYlNbGnooQs0S50FcPu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Robot Controller&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="264.68" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="drYlNbGnooQs0S50FcPu-6" target="drYlNbGnooQs0S50FcPu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;SLAM functionality&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="380" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Mobile Applicaiton&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="500" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="drYlNbGnooQs0S50FcPu-11" target="drYlNbGnooQs0S50FcPu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-11" value="Setup Cameras&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="110" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="drYlNbGnooQs0S50FcPu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.658;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="drYlNbGnooQs0S50FcPu-11" target="drYlNbGnooQs0S50FcPu-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
